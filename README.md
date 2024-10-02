@@ -9,10 +9,9 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
-<p align="center">
+<p>
 - 🔭 I’m currently working on **[AcademyNet](https://github.com/poorna-theekshana/AcademyNet)**<br>
 - 🌱 I’m currently learning **Web Development**, **Machine Learning**, and **UAV Technologies**<br>
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://your-portfolio-link.com)**<br>
 - 📫 How to reach me: **poornatheekshana@outlook.com**<br>
 - 📝 I regularly write articles on **[My Blog](https://medium.com/@poornatheekshana)**<br>
 </p>
