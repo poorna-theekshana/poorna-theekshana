@@ -110,7 +110,7 @@ I create developer-focused articles, tutorials, product guides, and SEO-friendly
 
 <div align="center">
 
-<a href="https://medium.com/@poornatheekshana"> <img src="https://img.shields.io/badge/Read%20My%20Articles-0F172A?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="Read My Articles" /> </a> <a href="https://www.syncfusion.com/blogs/post/top-16-nodejs-npm-packages"> <img src="https://img.shields.io/badge/Published%20Work-2563EB?style=for-the-badge&logo=readme&logoColor=FFFFFF" alt="Published Work" /> </a>
+<a href="https://medium.com/@poornatheekshana"> <img src="https://img.shields.io/badge/Read%20My%20Articles-0F172A?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="Read My Articles" /> </a> <a href="https://www.syncfusion.com/blogs/author/poorna-theekshana"> <img src="https://img.shields.io/badge/Published%20Work-2563EB?style=for-the-badge&logo=readme&logoColor=FFFFFF" alt="Published Work" /> </a>
 
 </div>
 
